@@ -1,6 +1,6 @@
 # Zahra Khosravi - ITP-NYU
 # Fast Style Transfer in [ML5](https://github.com/ITPNYU/ml5-js)
-This is a demo of Fast Style Transfer in [ml5 using My Personal Style as Training Image](https://github.com/ITPNYU/ml5-js)
+This is a demo of Fast Style Transfer in [ml5] using My Personal Style as Training Image (https://github.com/ITPNYU/ml5-js)
 
 Project Website:[https://zarak5.github.io/Style-Transfer-Project](https://zarak5.github.io/Style-Transfer-Project-all-4hours/)
 
