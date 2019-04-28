@@ -3,6 +3,7 @@
 This is a demo of Fast Style Transfer in [ml5](https://github.com/ITPNYU/ml5-js)
 using My Personal Style as Training Image.
 
+Use my model for style transfer in the browser and compare it with other models.
 Project Website:[https://zarak5.github.io/Style-Transfer-Project](https://zarak5.github.io/Style-Transfer-Project-all-4hours/)
 
 Credits:
