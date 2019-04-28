@@ -6,4 +6,4 @@ using My Personal Style as Training Image.
 Project Website:[https://zarak5.github.io/Style-Transfer-Project](https://zarak5.github.io/Style-Transfer-Project-all-4hours/)
 
 Credits:
-The code for github and some of the models are based on [Yinning Style Transfer Example ](https://yining1023.github.io/fast_style_transfer_in_ML5)
+The code for github and some of the models are based on [Example by Yinning ](https://yining1023.github.io/fast_style_transfer_in_ML5)
